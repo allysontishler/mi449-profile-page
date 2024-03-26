@@ -27,6 +27,7 @@ body {
 
 .profile-text {
     margin-top: 5px;
+    max-width: 50px;
 }
 
 .profile-text h1 {
