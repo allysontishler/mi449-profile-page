@@ -1,1 +1,66 @@
-/* Add screen styles below */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #FCF9F1;
+}
+
+.banner {
+    height: 300px;
+    background-color: #5998C5;
+}
+
+.profile-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 30px;
+}
+
+.circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #1C3144;
+    margin-right: 40px;
+}
+
+.profile-text {
+    margin-top: 5px;
+}
+
+.profile-text h1 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.profile-text p {
+    margin: 5px 0;
+}
+
+.profile-text strong {
+    color: #1C3144;
+}
+
+.rectangles {
+    margin-left: 30px;
+}
+
+.rectangles h2 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.rectangle {
+    border: 2px solid #1C3144;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.rectangle p {
+    margin: 5px 0;
+}
+
+.interests, .hobbies, .looking-for, .located {
+    color: #1C3144;
+}
