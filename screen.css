@@ -22,7 +22,8 @@ body {
     height: 80px;
     border-radius: 50%;
     background-color: #1C3144;
-    margin-right: 40px;
+    margin-right: 100px;
+    margin-top: -50px;
 }
 
 .profile-text {
